@@ -14,6 +14,8 @@
 
 2025年6月22日，[kjmjh](https://github.com/kjmjh)创建了该组织的第一个仓库
 
+2025年6月，[lingbopro](https://github.com/lingbopro)加入该组织
+
 ## 成员
 
-[kjmjh](https://github.com/kjmjh)
+[kjmjh](https://github.com/kjmjh) [lingbopro](https://github.com/lingbopro)

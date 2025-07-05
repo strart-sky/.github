@@ -16,6 +16,8 @@
 
 2025年6月，[lingbopro](https://github.com/lingbopro)加入该组织
 
+2025年7月，[UndefinedByte](https://github.com/UndefinedByte)加入该组织
+
 ## 成员
 
-[kjmjh](https://github.com/kjmjh) [lingbopro](https://github.com/lingbopro)
+[kjmjh](https://github.com/kjmjh) [lingbopro](https://github.com/lingbopro) [UndefinedByte](https://github.com/UndefinedByte)

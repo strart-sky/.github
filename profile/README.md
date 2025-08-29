@@ -7,6 +7,7 @@
 
 你可发送邮件至kj23awa@outlook.com来加入（我们会公正、公平地对待每一位申请者）。我们不要求您有多么厉害的技术，您只需怀有一颗好奇的心。
 
+你也可以加入我们的microsoft teams:https://teams.live.com/l/invite/FEAgMeE-1obqS20QAE?v=g1
 ## 编年史
 
 2025年6月，[kjmjh](https://github.com/kjmjh)创建该组织

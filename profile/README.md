@@ -16,7 +16,7 @@
 
 2025年6月，[lingbopro](https://github.com/lingbopro)加入该组织
 
-2025年7月，[UndefinedByte](https://github.com/UndefinedByte)加入该组织
+2025年7月，[JulyGlow](https://github.com/JulyGlow)加入该组织
 
 2025年8月，[tangyuan0821](https://github.com/tangyuan0821),[jiangwengxiang](https://github.com/jiangwengxiang)加入该组织
 ## 成员
@@ -24,6 +24,6 @@
 | :---: |
 | [kjmjh](https://github.com/kjmjh) |
 |[lingbopro](https://github.com/lingbopro) |
-|[UndefinedByte](https://github.com/UndefinedByte) |
+|[JulyGlow](https://github.com/JulyGlow) |
 |[tangyuan0821](https://github.com/tangyuan0821)|
 |[jiangwengxiang](https://github.com/jiangwengxiang) |
